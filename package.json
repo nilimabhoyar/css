@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "javascriptrefresher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhigun1234/refersherjscssbootstarp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhigun1234/refersherjscssbootstarp/issues"
+  },
+  "homepage": "https://github.com/abhigun1234/refersherjscssbootstarp#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}

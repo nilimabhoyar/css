@@ -1,0 +1,14 @@
+.header{
+
+
+    background-color: greenyellow;
+}
+.products{
+
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    width: 200px;
+    height: 400px;
+}

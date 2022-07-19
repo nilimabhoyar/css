@@ -1,0 +1,17 @@
+.my-content{
+
+    background-color: lightblue;
+    width: 300px;
+    padding: 25px;
+    border:25px solid green;
+    margin:25px;
+}
+.new-content{
+
+    background-color: hotpink;
+    width: 200px;
+    height: 250px;
+    border: 30px solid blue;
+    padding: 20px;
+    margin: 45px;
+}

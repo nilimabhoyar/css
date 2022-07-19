@@ -1,0 +1,14 @@
+.myclass{
+   
+    background-color: aquamarine;
+    border: black 2px solid;
+    margin: 2px;
+
+}
+.container{
+
+    display: flex;
+     justify-content: space-around;
+    flex-direction: column;
+   
+}
